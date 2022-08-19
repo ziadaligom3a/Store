@@ -54,9 +54,10 @@ Route::middleware('MustBeAdmin')->group(function(){
 
     Route::get('Admin/Dashboard',[AdminController::class,'index']);
     Route::post('Admin/Add_Product',[AdminController::class,'Add']);
+    Route::post('Admin/Edit/{id}',[AdminController::class,'Edit']);
     Route::get('Admin/Delete/{id}',function($id){
 
-
+        
         DB::table('products')->where('id',$id)->delete();
         return redirect('/Admin/Dashboard/?p=Products');
 

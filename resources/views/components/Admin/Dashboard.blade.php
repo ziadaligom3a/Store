@@ -80,11 +80,14 @@
       </div>
     </div>
     @if(request('p') == 'Products')
-    <x-Account.Products :product="$product" path="/Admin/Delete/" />
+    <x-Account.Products :product="$product" path="/Admin/Delete/" />  
    
     @elseif(request('p') == 'Add_Product')
 
         <x-Admin.Add_Product />
+    @elseif(request('edit'))
+
+      <x-Admin.Edit :product="\App\Models\Product::find(request('edit'))"/>
         
     @else
       <h1 class="text-blue-500 mt-12" style="text-align: center">Hello Admin</h1>

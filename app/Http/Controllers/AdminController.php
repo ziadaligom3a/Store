@@ -34,4 +34,30 @@ class AdminController extends Controller
 
 
     }
+
+    public function Edit(Product $id){
+
+        // $p = Product::findOrFail($id);
+       
+        try{
+            $validate = request()->validate([
+    
+                'name' => 'required',
+                'price' => 'required',
+                'img' => 'image'
+    
+            ]);
+            if(isset($validate['img'])):
+            $validate['img'] = request()->file('img')->store('thumbnails');
+        endif;
+            $id->update($validate);
+
+            return redirect("/Product/{$id->id}");
+        }catch(\Exception $e){
+    
+    
+            return back()->with('Error', $e->getMessage());
+        }
+    
+    }
 }

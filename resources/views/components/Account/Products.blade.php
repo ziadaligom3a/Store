@@ -1,4 +1,4 @@
-@props(['product','path'])
+@props(['product','path', 'control' => '#', 'color'])
 <div class="products-area-wrapper tableView">
     <div class="products-header">
       <div class="product-cell image">
@@ -30,8 +30,14 @@
       <div class="product-cell stock">
         <div class="px-6 py-4 whitespace-nowrap text-right text-sm font-medium">
           <span class="cell-label">Comments:</span>
-          <a class="text-blue-500 hover:text-blue-600" href="#">Pay </a>or
-          <a style="color:red" href="{{ $path }}{{ $pro->id }}" {{ $pro->id }}">Remove</a>
+
+          <a style="color:red" href="{{ $path }}{{ $pro->id }}">Remove</a> or 
+          {{-- @if(request()) --}}
+          @if(request()->is('Admin/Dashboard'))
+          <a style="color:orange" href="?edit={{ $pro->id }}">Edit</a> 
+          @else
+          <a style="color:blue" href="#">Pay</a> 
+          @endif
 
          </div>
         
