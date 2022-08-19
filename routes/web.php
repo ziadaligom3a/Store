@@ -16,6 +16,7 @@ use App\Models\UserProducts;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Http;
 use GuzzleHttp\Client;
+use Illuminate\Support\Facades\URL;
 
 /*
 |--------------------------------------------------------------------------
@@ -27,6 +28,7 @@ use GuzzleHttp\Client;
 | contains the "web" middleware group. Now create something great!
 |
 */
+
 Route::controller(ProductController::class)->group(function(){
 
     
@@ -113,3 +115,4 @@ Route::middleware('auth')->group(function(){
         return redirect('/My-Account?p=Products');
     });
 });
+

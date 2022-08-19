@@ -36,7 +36,7 @@
 <button class="button-10" role="button">Edit</button>
 
    
-            @dd(Session::get('Error'))
+            {{ Session::get('Error') }}
        
     </div>
 
