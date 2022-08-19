@@ -69,7 +69,7 @@
                 </div>
                 <div class="client-id">
                   <div class="img-box">
-                    <img src="/images/{{ $custom->img }}" alt="">
+                    <img src="{{ $custom->img }}" alt="">
                   </div>
                   <div class="name">
                     <h5>
