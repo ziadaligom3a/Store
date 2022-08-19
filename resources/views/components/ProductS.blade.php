@@ -186,7 +186,7 @@
                 <ul class="product-flags">
                                   </ul>
               
-                              <img id="zoom_product" data-type-zoom="" class="js-qv-product-cover img-fluid" src="/{{ $product->img }}" alt="" title="" itemprop="image">
+                              <img id="zoom_product" data-type-zoom="" class="js-qv-product-cover img-fluid" src="{{ $product->img }}" alt="" title="" itemprop="image">
                 <div class="layer hidden-sm-down" data-toggle="modal" data-target="#product-modal">
                   <i class="material-icons zoom-in">&#xE8FF;</i>
                 </div>
@@ -196,12 +196,12 @@
           
             <div id="thumb-gallery" class="product-thumb-images">
                                                 <div class="thumb-container  active ">
-                    <a href="javascript:void(0)" data-image="/{{ $product->img }}" data-zoom-image="/{{ $product->img }}"> 
+                    <a href="javascript:void(0)" data-image="{{ $product->img }}" data-zoom-image="{{ $product->img }}"> 
                       <img
                         class="thumb js-thumb  selected "
-                        data-image-medium-src="/{{ $product->img }}"
-                        data-image-large-src="/{{ $product->img }}"
-                        src="/{{ $product->img }}"
+                        data-image-medium-src="{{ $product->img }}"
+                        data-image-large-src="{{ $product->img }}"
+                        src="{{ $product->img }}"
                         alt=""
                         title=""
                         itemprop="image"
@@ -227,7 +227,7 @@
                       <img
               class="js-modal-product-cover product-cover-modal"
               width="800"
-              src="/{{ $product->img }}"
+              src="{{ $product->img }}"
                               alt="DELL MONITOR E1920H FLAT 19 INCH LED HD 60HZ"
                             height="800"
             >
@@ -242,9 +242,9 @@
             <div class="product-images js-modal-product-images product-images-333">
                               <div class="thumb-container js-thumb-container">
                   <img
-                      data-image-large-src="/{{ $product->img }}"
+                      data-image-large-src="{{ $product->img }}"
                       class="thumb js-modal-thumb"
-                      src="/{{ $product->img }}"
+                      src="{{ $product->img }}"
                                               alt="DELL MONITOR E1920H FLAT 19 INCH LED HD 60HZ"
                                             width="245"
                      
@@ -649,7 +649,7 @@
 
                 
                   <div class="product-cover">
-                                          <img class="js-qv-product-cover" src="/{{ $product->img }}" alt="" title="" style="width:100%;" itemprop="image">
+                                          <img class="js-qv-product-cover" src="{{ $product->img }}" alt="" title="" style="width:100%;" itemprop="image">
                                       </div>
                 
                           </div>

@@ -14,6 +14,8 @@ use Illuminate\Validation\Rule;
 use App\Models\User;
 use App\Models\UserProducts;
 use Illuminate\Support\Facades\DB;
+use Illuminate\Support\Facades\Http;
+use GuzzleHttp\Client;
 
 /*
 |--------------------------------------------------------------------------
@@ -27,7 +29,7 @@ use Illuminate\Support\Facades\DB;
 */
 Route::controller(ProductController::class)->group(function(){
 
-
+    
     Route::get('/','index');
     Route::get('/products',fn(Product $product) => view('product',['product' => $product->all()])
     );

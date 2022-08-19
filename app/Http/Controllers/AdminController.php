@@ -1,7 +1,7 @@
 <?php
 
 namespace App\Http\Controllers;
-
+use App\Http\Controllers\ImgApiController;
 use App\Models\Product;
 use Illuminate\Http\Request;
 
@@ -19,10 +19,12 @@ class AdminController extends Controller
 
             'name' => 'required',
             'price' => 'required',
-            'img' => 'required'
+            'img' => 'required|image'
 
         ]);
-        $validate['img'] = request()->file('img')->store('thumbnails');
+
+        $img = ImgApiController::api(base64_encode($validate['img'] = request()->file('img')->get()));
+        $validate['img'] = $img->image->url;
         $product = Product::create($validate);
        
         return redirect("/Product/{$product->id}");

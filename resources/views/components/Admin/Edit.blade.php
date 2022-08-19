@@ -27,7 +27,7 @@
             
                 </div>
                 <div class="flex mt-6">
-                    <img   src="/{{ $product->img }}" class="rounded-xl" width="100" alt="">
+                    <img   src="{{ $product->img }}" class="rounded-xl" width="100" alt="">
                 </div>
             </div>
         </div>

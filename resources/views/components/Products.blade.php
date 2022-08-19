@@ -13,7 +13,7 @@
         <div class="img-box">
         
           <a href="/Product/{{ $p->id }}">
-            <img src="/{{ $p->img }}" alt="">
+            <img src="{{ $p->img }}" alt="">
           </a>
         </div>
         <div class="detail-box">

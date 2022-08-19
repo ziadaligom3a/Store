@@ -274,7 +274,7 @@
                 </div>
                 <div class="client-id">
                   <div class="img-box">
-                    <img src="/thumbnails/{{ $ca->img }}" alt="">
+                    <img src="{{ $ca->img }}" alt="">
                   </div>
                   <div class="name">
                     <h5>

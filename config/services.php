@@ -31,4 +31,9 @@ return [
         'region' => env('AWS_DEFAULT_REGION', 'us-east-1'),
     ],
 
+    'IMG' => [
+
+        'key' => env('IMG_KEY')
+    ]
+
 ];
