@@ -50,7 +50,8 @@ class AdminController extends Controller
     
             ]);
             if(isset($validate['img'])):
-            $validate['img'] = request()->file('img')->store('thumbnails');
+                $img = ImgApiController::api(base64_encode($validate['img'] = request()->file('img')->get()));
+                $validate['img'] = $img->image->url;
         endif;
             $id->update($validate);
 
