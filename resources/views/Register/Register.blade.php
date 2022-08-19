@@ -57,6 +57,6 @@
                                 <span class="p-button-icon p-button-icon-left p-hidden" aria-hidden="true"></span><span class="p-button-label">Login</span></button><hr _ngcontent-mgw-c112="">
                                 
                                 </div></form><!----></div><!----></div>
-                                @dd(Session::get('success'))
+                                
     </body>
 </html>
