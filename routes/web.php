@@ -42,9 +42,11 @@ Route::controller(ProductController::class)->group(function(){
     
     Route::get('Product/{id}',function(Product $id){
         
-
+        if(auth()->id()):
         return view('components.ProductS',['product' => $id]);
-
+        else:
+            return redirect('/Login');
+    endif;
     });
 });
 
@@ -78,23 +80,29 @@ Route::middleware('auth')->group(function(){
     Route::post('Forget',[ForgetController::class,'change']);
     Route::post('Add_Product',function(){
 
-        try{
-        $validate = request()->validate([
-
-            'id' => ['required',Rule::exists('products','id')]
-
-        ]);
-
-        $user = User::find(auth()->id());
-        $product = Product::find($validate['id']);
-        $user->favourites()->save($product);
-        return redirect('/My-Account?p=Products');
-    }catch(\Exception $e){
-
-        return back()->with('Error',$e->getMessage());
-    }
-    }); 
     
+
+            try{
+        
+                $validate = request()->validate([
+        
+                    'id' => ['required',Rule::exists('products','id')]
+        
+                ]);
+        
+                $user = User::find(auth()->id());
+                $product = Product::find($validate['id']);
+                $user->favourites()->save($product);
+                return redirect('/My-Account?p=Products');
+            }catch(\Exception $e){
+        
+                return back()->with('Error',$e->getMessage());
+            }
+
+       
+
+    }); 
+  
     Route::get('My-Account/Delete/{id}',function($id){
 
 

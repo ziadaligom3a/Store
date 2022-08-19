@@ -28,6 +28,9 @@ class LoginController extends Controller
             auth()->login(auth()->user());
             return redirect('/');
 
+        else:
+
+            return redirect('/Login');
         endif;
     }
 }

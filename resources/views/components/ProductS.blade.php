@@ -4,7 +4,7 @@
 
   <head>
     
-    <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+    <link rel="stylesheet" type="text/css" href="/css/bootstrap.css" />
 
     <!-- fonts style -->
     <link href="https://fonts.googleapis.com/css?family=Poppins:400,700&display=swap" rel="stylesheet"> <!-- range slider -->
@@ -29,116 +29,9 @@
   
   <meta name="description" content="">
   <meta name="keywords" content="">
-        <link rel="canonical" href="https://smarttechnology-eg.com/en/business-monitors/333-dell-monitor-e1920h-flat-19-inch-led-hd-60hz.html">
-    
-          <link rel="alternate" href="https://smarttechnology-eg.com/en/business-monitors/333-dell-monitor-e1920h-flat-19-inch-led-hd-60hz.html" hreflang="en-us">
-          <link rel="alternate" href="https://smarttechnology-eg.com/ar/business-monitors/333-dell-monitor-e1920h-flat-19-inch-led-hd-60hz.html" hreflang="ar">
-      
-  
-  
-    <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "Organization",
-    "name" : "Smart Technology - سمارت تكنولوجي",
-    "url" : "https://smarttechnology-eg.com/en/",
-        "logo": {
-      "@type": "ImageObject",
-        "url":"https://smarttechnology-eg.com/img/logo-1640790748.jpg"
-    }
-      }
-</script>
-
-<script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "WebPage",
-    "isPartOf": {
-      "@type": "WebSite",
-      "url":  "https://smarttechnology-eg.com/en/",
-      "name": "Smart Technology - سمارت تكنولوجي"
-    },
-    "name": "DELL MONITOR E1920H FLAT 19 INCH LED HD 60HZ",
-    "url":  "https://smarttechnology-eg.com/en/business-monitors/333-dell-monitor-e1920h-flat-19-inch-led-hd-60hz.html"
-  }
-</script>
-
-
-  <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-                      {
-              "@type": "ListItem",
-              "position": 1,
-              "name": "Home",
-              "item": "https://smarttechnology-eg.com/en/"
-              },                    {
-              "@type": "ListItem",
-              "position": 2,
-              "name": "Monitors",
-              "item": "https://smarttechnology-eg.com/en/8-monitors"
-              },                    {
-              "@type": "ListItem",
-              "position": 3,
-              "name": "Business Monitors",
-              "item": "https://smarttechnology-eg.com/en/10-business-monitors"
-              },                    {
-              "@type": "ListItem",
-              "position": 4,
-              "name": "DELL MONITOR E1920H FLAT 19 INCH LED HD 60HZ",
-              "item": "https://smarttechnology-eg.com/en/business-monitors/333-dell-monitor-e1920h-flat-19-inch-led-hd-60hz.html"
-              }              ]
-          }
-  </script>
-  
-  
-  
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org/",
-    "@type": "Product",
-    "name": "DELL MONITOR E1920H FLAT 19 INCH LED HD 60HZ",
-    "description": "",
-    "category": "Business Monitors",
-    "image" :"https://smarttechnology-eg.com/1039-home_default/dell-monitor-e1920h-flat-19-inch-led-hd-60hz.jpg",    "sku": "333",
-    "mpn": "333"
-        ,
-    "brand": {
-      "@type": "Thing",
-      "name": "DELL"
-    }
-                ,
-    "offers": {
-      "@type": "Offer",
-      "priceCurrency": "EGP",
-      "name": "DELL MONITOR E1920H FLAT 19 INCH LED HD 60HZ",
-      "price": "2500",
-      "url": "https://smarttechnology-eg.com/en/business-monitors/333-dell-monitor-e1920h-flat-19-inch-led-hd-60hz.html",
-      "priceValidUntil": "2022-09-01",
-              "image": ["https://smarttechnology-eg.com/1039-large_default/dell-monitor-e1920h-flat-19-inch-led-hd-60hz.jpg"],
-            "sku": "333",
-      "mpn": "333",
-                        "availability": "https://schema.org/InStock",
-      "seller": {
-        "@type": "Organization",
-        "name": "Smart Technology - سمارت تكنولوجي"
-      }
-    }
-      }
-</script>
-
-  
-  
-    
+        
   
 
-  
-    <meta property="og:title" content="DELL MONITOR E1920H FLAT 19 INCH LED HD 60HZ" />
-    <meta property="og:description" content="" />
-    <meta property="og:url" content="https://smarttechnology-eg.com/en/business-monitors/333-dell-monitor-e1920h-flat-19-inch-led-hd-60hz.html" />
-    <meta property="og:site_name" content="Smart Technology - سمارت تكنولوجي" />
         
 
 
@@ -146,9 +39,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
-
-  <link rel="icon" type="image/vnd.microsoft.icon" href="https://smarttechnology-eg.com/img/favicon.ico?1641210818">
-  <link rel="shortcut icon" type="image/x-icon" href="https://smarttechnology-eg.com/img/favicon.ico?1641210818">
 
 
   
@@ -193,103 +83,37 @@
 
 
   <script type="text/javascript">
-        var LEO_COOKIE_THEME = "LEO_SHOPMAL_PANEL_CONFIG";
-        var add_cart_error = "An error occurred while processing your request. Please try again";
-        var ajaxsearch = "1";
-        var buttoncompare_title_add = "Add to Compare";
-        var buttoncompare_title_remove = "Remove from Compare";
-        var buttonwishlist_title_add = "Add to Wishlist";
-        var buttonwishlist_title_remove = "Remove from WishList";
-        var cancel_rating_txt = "Cancel Rating";
-        var comparator_max_item = 3;
-        var compared_products = [];
-        var data_product_popup = [{"image":"https:\/\/smarttechnology-eg.com\/919-cart_default\/ideapad-3-15iml05-core-i3-10110u-mx130-2gb-4gb-ram-1tb-hdd-156-fhd-dos-platinum-grey.jpg","title":"IdeaPad 3 15IML05 -Core i3-10110U -MX130 2GB  -4GB RAM -1TB HDD -15.6\" FHD -DOS- Platinum Grey","url":"https:\/\/smarttechnology-eg.com\/en\/business-laptops\/295-ideapad-3-15iml05-core-i3-10110u-mx130-2gb-4gb-ram-1tb-hdd-156-fhd-dos-platinum-grey.html","id_product":"295","time":"Puchare By MABDELHAMED 55 minutes ago","phone":"xxx03221897","address":"\u0627\u0631\u0636 \u0627\u0644\u062c\u0645\u0639\u064a\u0627\u062a \u0627\u0644\u0634\u064a\u062e \u0630\u0627\u064a\u062f \u0627\u0644\u0625\u0633\u0645\u0627\u0639\u064a\u0644\u064a\u0629 \u0642\u0663\u0660 \u0628\u0664\u0668 \u0627\u0631\u0636 \u0627\u0644\u062c\u0645\u0639\u064a\u0627\u062a Ismailia"},{"image":"https:\/\/smarttechnology-eg.com\/848-cart_default\/ideapad-5-15itl05-intel-core-i7-1165g7-intel-iris-xe-graphics-8gb-ram-256gb-ssd-1tb-hdd-156-fhd-ips-dos-black.jpg","title":"IdeaPad 5 15ITL05 Intel Core I7-1165G7- Intel Iris Xe Graphics - 8GB RAM - 256GB SSD - 1TB HDD - 15.6 FHD IPS - Dos - Black","url":"https:\/\/smarttechnology-eg.com\/en\/business-laptops\/277-ideapad-5-15itl05-intel-core-i7-1165g7-intel-iris-xe-graphics-8gb-ram-256gb-ssd-1tb-hdd-156-fhd-ips-dos-black.html","id_product":"277","time":"Puchare By MABDELHAMED 38 minutes ago","phone":"xxx03221897","address":"\u0627\u0631\u0636 \u0627\u0644\u062c\u0645\u0639\u064a\u0627\u062a \u0627\u0644\u0634\u064a\u062e \u0630\u0627\u064a\u062f \u0627\u0644\u0625\u0633\u0645\u0627\u0639\u064a\u0644\u064a\u0629 \u0642\u0663\u0660 \u0628\u0664\u0668 \u0627\u0631\u0636 \u0627\u0644\u062c\u0645\u0639\u064a\u0627\u062a Ismailia"},{"image":"https:\/\/smarttechnology-eg.com\/1049-cart_default\/g15-5510-gaming-laptop-intel-core-i5-10500h-8gb-ram-512gb-ssd-nvidia-geforce-gtx-1650-4gb-156-fhd-display-ubuntu.jpg","title":"Dell G15 5510 Gaming Laptop - Intel Core I5-10500H - 8GB RAM - 512GB SSD - Nvidia GeForce GTX 1650 4GB - 15.6  FHD - Ubuntu","url":"https:\/\/smarttechnology-eg.com\/en\/gaming-laptops\/55-g15-5510-gaming-laptop-intel-core-i5-10500h-8gb-ram-512gb-ssd-nvidia-geforce-gtx-1650-4gb-156-fhd-display-ubuntu.html","id_product":"55","time":"Puchare By MABDELHAMED 19 minutes ago","phone":"xxx03221897","address":"\u0627\u0631\u0636 \u0627\u0644\u062c\u0645\u0639\u064a\u0627\u062a \u0627\u0644\u0634\u064a\u062e \u0630\u0627\u064a\u062f \u0627\u0644\u0625\u0633\u0645\u0627\u0639\u064a\u0644\u064a\u0629 \u0642\u0663\u0660 \u0628\u0664\u0668 \u0627\u0631\u0636 \u0627\u0644\u062c\u0645\u0639\u064a\u0627\u062a Ismailia"},{"image":"https:\/\/smarttechnology-eg.com\/244-cart_default\/dell-g15-5511-gaming-laptop-intel-core-i7-11800h-16gb-ram-512gb-ssd-nvidia-rtx-3060-6gb-gddr6-156-fhd-120hz-ubuntu.jpg","title":"Dell G15 5511 Gaming Laptop - Intel Core I7-11800H - 16GB RAM - 512GB SSD - NVIDIA RTX 3060 6GB GDDR6 -15.6 FHD 120Hz - Ubuntu","url":"https:\/\/smarttechnology-eg.com\/en\/gaming-laptops\/59-dell-g15-5511-gaming-laptop-intel-core-i7-11800h-16gb-ram-512gb-ssd-nvidia-rtx-3060-6gb-gddr6-156-fhd-120hz-ubuntu.html","id_product":"59","time":"Puchare By MABDELHAMED 39 minutes ago","phone":"xxx03221897","address":"\u0627\u0631\u0636 \u0627\u0644\u062c\u0645\u0639\u064a\u0627\u062a \u0627\u0644\u0634\u064a\u062e \u0630\u0627\u064a\u062f \u0627\u0644\u0625\u0633\u0645\u0627\u0639\u064a\u0644\u064a\u0629 \u0642\u0663\u0660 \u0628\u0664\u0668 \u0627\u0631\u0636 \u0627\u0644\u062c\u0645\u0639\u064a\u0627\u062a Ismailia"},{"image":"https:\/\/smarttechnology-eg.com\/856-cart_default\/dell-vostro-3510-intel-core-i7-1165g7-8gb-ram-1tb-hdd-156-inch-fhd-nvidia-mx350-gpu-ubuntu-black.jpg","title":"Dell Vostro 3510 - Intel Core I7-1165G7 - 8GB RAM - 1TB HDD - 15.6-inch FHD - NVIDIA MX350 GPU - Ubuntu - Black","url":"https:\/\/smarttechnology-eg.com\/en\/business-laptops\/280-dell-vostro-3510-intel-core-i7-1165g7-8gb-ram-1tb-hdd-156-inch-fhd-nvidia-mx350-gpu-ubuntu-black.html","id_product":"280","time":"Puchare By MABDELHAMED 22 minutes ago","phone":"xxx03221897","address":"\u0627\u0631\u0636 \u0627\u0644\u062c\u0645\u0639\u064a\u0627\u062a \u0627\u0644\u0634\u064a\u062e \u0630\u0627\u064a\u062f \u0627\u0644\u0625\u0633\u0645\u0627\u0639\u064a\u0644\u064a\u0629 \u0642\u0663\u0660 \u0628\u0664\u0668 \u0627\u0631\u0636 \u0627\u0644\u062c\u0645\u0639\u064a\u0627\u062a Ismailia"},{"image":"https:\/\/smarttechnology-eg.com\/499-cart_default\/logitech-g102-light-sync-rgb-gaming-mouse-8000-dpi-black.jpg","title":"Logitech G102 Light Sync RGB Gaming Mouse \u2013 8,000 DPI - Black","url":"https:\/\/smarttechnology-eg.com\/en\/mouses\/163-logitech-g102-light-sync-rgb-gaming-mouse-8000-dpi-black.html","id_product":"163","time":"Puchare By MABDELHAMED 39 minutes ago","phone":"xxx03221897","address":"\u0627\u0631\u0636 \u0627\u0644\u062c\u0645\u0639\u064a\u0627\u062a \u0627\u0644\u0634\u064a\u062e \u0630\u0627\u064a\u062f \u0627\u0644\u0625\u0633\u0645\u0627\u0639\u064a\u0644\u064a\u0629 \u0642\u0663\u0660 \u0628\u0664\u0668 \u0627\u0631\u0636 \u0627\u0644\u062c\u0645\u0639\u064a\u0627\u062a Ismailia"},{"image":"https:\/\/smarttechnology-eg.com\/580-cart_default\/logitech-wireless-mouse-m330-silent-plus-black.jpg","title":"Logitech Wireless Mouse M330 Silent Plus - Black","url":"https:\/\/smarttechnology-eg.com\/en\/mouses\/184-logitech-wireless-mouse-m330-silent-plus-black.html","id_product":"184","time":"Puchare By MABDELHAMED 58 minutes ago","phone":"xxx03221897","address":"\u0627\u0631\u0636 \u0627\u0644\u062c\u0645\u0639\u064a\u0627\u062a \u0627\u0644\u0634\u064a\u062e \u0630\u0627\u064a\u062f \u0627\u0644\u0625\u0633\u0645\u0627\u0639\u064a\u0644\u064a\u0629 \u0642\u0663\u0660 \u0628\u0664\u0668 \u0627\u0631\u0636 \u0627\u0644\u062c\u0645\u0639\u064a\u0627\u062a Ismailia"},{"image":"https:\/\/smarttechnology-eg.com\/919-cart_default\/ideapad-3-15iml05-core-i3-10110u-mx130-2gb-4gb-ram-1tb-hdd-156-fhd-dos-platinum-grey.jpg","title":"IdeaPad 3 15IML05 -Core i3-10110U -MX130 2GB  -4GB RAM -1TB HDD -15.6\" FHD -DOS- Platinum Grey","url":"https:\/\/smarttechnology-eg.com\/en\/business-laptops\/295-ideapad-3-15iml05-core-i3-10110u-mx130-2gb-4gb-ram-1tb-hdd-156-fhd-dos-platinum-grey.html","id_product":"295","time":"Puchare By \u064a\u0631\u0645\u0636\u0627\u0646 47 minutes ago","phone":"xxx92693468","address":"\u0627\u0644\u0645\u0646\u0648\u0641\u064a\u0629 Monufia"},{"image":"https:\/\/smarttechnology-eg.com\/848-cart_default\/ideapad-5-15itl05-intel-core-i7-1165g7-intel-iris-xe-graphics-8gb-ram-256gb-ssd-1tb-hdd-156-fhd-ips-dos-black.jpg","title":"IdeaPad 5 15ITL05 Intel Core I7-1165G7- Intel Iris Xe Graphics - 8GB RAM - 256GB SSD - 1TB HDD - 15.6 FHD IPS - Dos - Black","url":"https:\/\/smarttechnology-eg.com\/en\/business-laptops\/277-ideapad-5-15itl05-intel-core-i7-1165g7-intel-iris-xe-graphics-8gb-ram-256gb-ssd-1tb-hdd-156-fhd-ips-dos-black.html","id_product":"277","time":"Puchare By \u064a\u0631\u0645\u0636\u0627\u0646 18 minutes ago","phone":"xxx92693468","address":"\u0627\u0644\u0645\u0646\u0648\u0641\u064a\u0629 Monufia"},{"image":"https:\/\/smarttechnology-eg.com\/1049-cart_default\/g15-5510-gaming-laptop-intel-core-i5-10500h-8gb-ram-512gb-ssd-nvidia-geforce-gtx-1650-4gb-156-fhd-display-ubuntu.jpg","title":"Dell G15 5510 Gaming Laptop - Intel Core I5-10500H - 8GB RAM - 512GB SSD - Nvidia GeForce GTX 1650 4GB - 15.6  FHD - Ubuntu","url":"https:\/\/smarttechnology-eg.com\/en\/gaming-laptops\/55-g15-5510-gaming-laptop-intel-core-i5-10500h-8gb-ram-512gb-ssd-nvidia-geforce-gtx-1650-4gb-156-fhd-display-ubuntu.html","id_product":"55","time":"Puchare By \u064a\u0631\u0645\u0636\u0627\u0646 49 minutes ago","phone":"xxx92693468","address":"\u0627\u0644\u0645\u0646\u0648\u0641\u064a\u0629 Monufia"},{"image":"https:\/\/smarttechnology-eg.com\/244-cart_default\/dell-g15-5511-gaming-laptop-intel-core-i7-11800h-16gb-ram-512gb-ssd-nvidia-rtx-3060-6gb-gddr6-156-fhd-120hz-ubuntu.jpg","title":"Dell G15 5511 Gaming Laptop - Intel Core I7-11800H - 16GB RAM - 512GB SSD - NVIDIA RTX 3060 6GB GDDR6 -15.6 FHD 120Hz - Ubuntu","url":"https:\/\/smarttechnology-eg.com\/en\/gaming-laptops\/59-dell-g15-5511-gaming-laptop-intel-core-i7-11800h-16gb-ram-512gb-ssd-nvidia-rtx-3060-6gb-gddr6-156-fhd-120hz-ubuntu.html","id_product":"59","time":"Puchare By \u064a\u0631\u0645\u0636\u0627\u0646 39 minutes ago","phone":"xxx92693468","address":"\u0627\u0644\u0645\u0646\u0648\u0641\u064a\u0629 Monufia"},{"image":"https:\/\/smarttechnology-eg.com\/856-cart_default\/dell-vostro-3510-intel-core-i7-1165g7-8gb-ram-1tb-hdd-156-inch-fhd-nvidia-mx350-gpu-ubuntu-black.jpg","title":"Dell Vostro 3510 - Intel Core I7-1165G7 - 8GB RAM - 1TB HDD - 15.6-inch FHD - NVIDIA MX350 GPU - Ubuntu - Black","url":"https:\/\/smarttechnology-eg.com\/en\/business-laptops\/280-dell-vostro-3510-intel-core-i7-1165g7-8gb-ram-1tb-hdd-156-inch-fhd-nvidia-mx350-gpu-ubuntu-black.html","id_product":"280","time":"Puchare By \u064a\u0631\u0645\u0636\u0627\u0646 35 minutes ago","phone":"xxx92693468","address":"\u0627\u0644\u0645\u0646\u0648\u0641\u064a\u0629 Monufia"},{"image":"https:\/\/smarttechnology-eg.com\/499-cart_default\/logitech-g102-light-sync-rgb-gaming-mouse-8000-dpi-black.jpg","title":"Logitech G102 Light Sync RGB Gaming Mouse \u2013 8,000 DPI - Black","url":"https:\/\/smarttechnology-eg.com\/en\/mouses\/163-logitech-g102-light-sync-rgb-gaming-mouse-8000-dpi-black.html","id_product":"163","time":"Puchare By \u064a\u0631\u0645\u0636\u0627\u0646 7 minutes ago","phone":"xxx92693468","address":"\u0627\u0644\u0645\u0646\u0648\u0641\u064a\u0629 Monufia"},{"image":"https:\/\/smarttechnology-eg.com\/580-cart_default\/logitech-wireless-mouse-m330-silent-plus-black.jpg","title":"Logitech Wireless Mouse M330 Silent Plus - Black","url":"https:\/\/smarttechnology-eg.com\/en\/mouses\/184-logitech-wireless-mouse-m330-silent-plus-black.html","id_product":"184","time":"Puchare By \u064a\u0631\u0645\u0636\u0627\u0646 51 minutes ago","phone":"xxx92693468","address":"\u0627\u0644\u0645\u0646\u0648\u0641\u064a\u0629 Monufia"},{"image":"https:\/\/smarttechnology-eg.com\/919-cart_default\/ideapad-3-15iml05-core-i3-10110u-mx130-2gb-4gb-ram-1tb-hdd-156-fhd-dos-platinum-grey.jpg","title":"IdeaPad 3 15IML05 -Core i3-10110U -MX130 2GB  -4GB RAM -1TB HDD -15.6\" FHD -DOS- Platinum Grey","url":"https:\/\/smarttechnology-eg.com\/en\/business-laptops\/295-ideapad-3-15iml05-core-i3-10110u-mx130-2gb-4gb-ram-1tb-hdd-156-fhd-dos-platinum-grey.html","id_product":"295","time":"Puchare By Ahawary 49 minutes ago","phone":"xxx18100826","address":"\u0668 \u0634\u0627\u0631\u0639 \u0645\u062d\u0645\u062f \u062d\u0627\u0643\u062f -\u0645\u064a\u062a \u063a\u0645\u0631- \u0627\u0644\u0645\u0646\u0635\u0648\u0631\u0647  Dakahlia"},{"image":"https:\/\/smarttechnology-eg.com\/848-cart_default\/ideapad-5-15itl05-intel-core-i7-1165g7-intel-iris-xe-graphics-8gb-ram-256gb-ssd-1tb-hdd-156-fhd-ips-dos-black.jpg","title":"IdeaPad 5 15ITL05 Intel Core I7-1165G7- Intel Iris Xe Graphics - 8GB RAM - 256GB SSD - 1TB HDD - 15.6 FHD IPS - Dos - Black","url":"https:\/\/smarttechnology-eg.com\/en\/business-laptops\/277-ideapad-5-15itl05-intel-core-i7-1165g7-intel-iris-xe-graphics-8gb-ram-256gb-ssd-1tb-hdd-156-fhd-ips-dos-black.html","id_product":"277","time":"Puchare By Ahawary 58 minutes ago","phone":"xxx18100826","address":"\u0668 \u0634\u0627\u0631\u0639 \u0645\u062d\u0645\u062f \u062d\u0627\u0643\u062f -\u0645\u064a\u062a \u063a\u0645\u0631- \u0627\u0644\u0645\u0646\u0635\u0648\u0631\u0647  Dakahlia"},{"image":"https:\/\/smarttechnology-eg.com\/1049-cart_default\/g15-5510-gaming-laptop-intel-core-i5-10500h-8gb-ram-512gb-ssd-nvidia-geforce-gtx-1650-4gb-156-fhd-display-ubuntu.jpg","title":"Dell G15 5510 Gaming Laptop - Intel Core I5-10500H - 8GB RAM - 512GB SSD - Nvidia GeForce GTX 1650 4GB - 15.6  FHD - Ubuntu","url":"https:\/\/smarttechnology-eg.com\/en\/gaming-laptops\/55-g15-5510-gaming-laptop-intel-core-i5-10500h-8gb-ram-512gb-ssd-nvidia-geforce-gtx-1650-4gb-156-fhd-display-ubuntu.html","id_product":"55","time":"Puchare By Ahawary 33 minutes ago","phone":"xxx18100826","address":"\u0668 \u0634\u0627\u0631\u0639 \u0645\u062d\u0645\u062f \u062d\u0627\u0643\u062f -\u0645\u064a\u062a \u063a\u0645\u0631- \u0627\u0644\u0645\u0646\u0635\u0648\u0631\u0647  Dakahlia"},{"image":"https:\/\/smarttechnology-eg.com\/244-cart_default\/dell-g15-5511-gaming-laptop-intel-core-i7-11800h-16gb-ram-512gb-ssd-nvidia-rtx-3060-6gb-gddr6-156-fhd-120hz-ubuntu.jpg","title":"Dell G15 5511 Gaming Laptop - Intel Core I7-11800H - 16GB RAM - 512GB SSD - NVIDIA RTX 3060 6GB GDDR6 -15.6 FHD 120Hz - Ubuntu","url":"https:\/\/smarttechnology-eg.com\/en\/gaming-laptops\/59-dell-g15-5511-gaming-laptop-intel-core-i7-11800h-16gb-ram-512gb-ssd-nvidia-rtx-3060-6gb-gddr6-156-fhd-120hz-ubuntu.html","id_product":"59","time":"Puchare By Ahawary 52 minutes ago","phone":"xxx18100826","address":"\u0668 \u0634\u0627\u0631\u0639 \u0645\u062d\u0645\u062f \u062d\u0627\u0643\u062f -\u0645\u064a\u062a \u063a\u0645\u0631- \u0627\u0644\u0645\u0646\u0635\u0648\u0631\u0647  Dakahlia"},{"image":"https:\/\/smarttechnology-eg.com\/856-cart_default\/dell-vostro-3510-intel-core-i7-1165g7-8gb-ram-1tb-hdd-156-inch-fhd-nvidia-mx350-gpu-ubuntu-black.jpg","title":"Dell Vostro 3510 - Intel Core I7-1165G7 - 8GB RAM - 1TB HDD - 15.6-inch FHD - NVIDIA MX350 GPU - Ubuntu - Black","url":"https:\/\/smarttechnology-eg.com\/en\/business-laptops\/280-dell-vostro-3510-intel-core-i7-1165g7-8gb-ram-1tb-hdd-156-inch-fhd-nvidia-mx350-gpu-ubuntu-black.html","id_product":"280","time":"Puchare By Ahawary 49 minutes ago","phone":"xxx18100826","address":"\u0668 \u0634\u0627\u0631\u0639 \u0645\u062d\u0645\u062f \u062d\u0627\u0643\u062f -\u0645\u064a\u062a \u063a\u0645\u0631- \u0627\u0644\u0645\u0646\u0635\u0648\u0631\u0647  Dakahlia"},{"image":"https:\/\/smarttechnology-eg.com\/499-cart_default\/logitech-g102-light-sync-rgb-gaming-mouse-8000-dpi-black.jpg","title":"Logitech G102 Light Sync RGB Gaming Mouse \u2013 8,000 DPI - Black","url":"https:\/\/smarttechnology-eg.com\/en\/mouses\/163-logitech-g102-light-sync-rgb-gaming-mouse-8000-dpi-black.html","id_product":"163","time":"Puchare By Ahawary 5 minutes ago","phone":"xxx18100826","address":"\u0668 \u0634\u0627\u0631\u0639 \u0645\u062d\u0645\u062f \u062d\u0627\u0643\u062f -\u0645\u064a\u062a \u063a\u0645\u0631- \u0627\u0644\u0645\u0646\u0635\u0648\u0631\u0647  Dakahlia"},{"image":"https:\/\/smarttechnology-eg.com\/580-cart_default\/logitech-wireless-mouse-m330-silent-plus-black.jpg","title":"Logitech Wireless Mouse M330 Silent Plus - Black","url":"https:\/\/smarttechnology-eg.com\/en\/mouses\/184-logitech-wireless-mouse-m330-silent-plus-black.html","id_product":"184","time":"Puchare By Ahawary 9 minutes ago","phone":"xxx18100826","address":"\u0668 \u0634\u0627\u0631\u0639 \u0645\u062d\u0645\u062f \u062d\u0627\u0643\u062f -\u0645\u064a\u062a \u063a\u0645\u0631- \u0627\u0644\u0645\u0646\u0635\u0648\u0631\u0647  Dakahlia"},{"image":"https:\/\/smarttechnology-eg.com\/919-cart_default\/ideapad-3-15iml05-core-i3-10110u-mx130-2gb-4gb-ram-1tb-hdd-156-fhd-dos-platinum-grey.jpg","title":"IdeaPad 3 15IML05 -Core i3-10110U -MX130 2GB  -4GB RAM -1TB HDD -15.6\" FHD -DOS- Platinum Grey","url":"https:\/\/smarttechnology-eg.com\/en\/business-laptops\/295-ideapad-3-15iml05-core-i3-10110u-mx130-2gb-4gb-ram-1tb-hdd-156-fhd-dos-platinum-grey.html","id_product":"295","time":"Puchare By Ahawary 52 minutes ago","phone":"xxx18100826","address":"\u0668 \u0634\u0627\u0631\u0639 \u0645\u062d\u0645\u062f \u062d\u0627\u0645\u062f -\u0645\u064a\u062a \u063a\u0645\u0631- \u0627\u0644\u0645\u0646\u0635\u0648\u0631\u0647  Dakahlia"},{"image":"https:\/\/smarttechnology-eg.com\/848-cart_default\/ideapad-5-15itl05-intel-core-i7-1165g7-intel-iris-xe-graphics-8gb-ram-256gb-ssd-1tb-hdd-156-fhd-ips-dos-black.jpg","title":"IdeaPad 5 15ITL05 Intel Core I7-1165G7- Intel Iris Xe Graphics - 8GB RAM - 256GB SSD - 1TB HDD - 15.6 FHD IPS - Dos - Black","url":"https:\/\/smarttechnology-eg.com\/en\/business-laptops\/277-ideapad-5-15itl05-intel-core-i7-1165g7-intel-iris-xe-graphics-8gb-ram-256gb-ssd-1tb-hdd-156-fhd-ips-dos-black.html","id_product":"277","time":"Puchare By Ahawary 28 minutes ago","phone":"xxx18100826","address":"\u0668 \u0634\u0627\u0631\u0639 \u0645\u062d\u0645\u062f \u062d\u0627\u0645\u062f -\u0645\u064a\u062a \u063a\u0645\u0631- \u0627\u0644\u0645\u0646\u0635\u0648\u0631\u0647  Dakahlia"},{"image":"https:\/\/smarttechnology-eg.com\/1049-cart_default\/g15-5510-gaming-laptop-intel-core-i5-10500h-8gb-ram-512gb-ssd-nvidia-geforce-gtx-1650-4gb-156-fhd-display-ubuntu.jpg","title":"Dell G15 5510 Gaming Laptop - Intel Core I5-10500H - 8GB RAM - 512GB SSD - Nvidia GeForce GTX 1650 4GB - 15.6  FHD - Ubuntu","url":"https:\/\/smarttechnology-eg.com\/en\/gaming-laptops\/55-g15-5510-gaming-laptop-intel-core-i5-10500h-8gb-ram-512gb-ssd-nvidia-geforce-gtx-1650-4gb-156-fhd-display-ubuntu.html","id_product":"55","time":"Puchare By Ahawary 47 minutes ago","phone":"xxx18100826","address":"\u0668 \u0634\u0627\u0631\u0639 \u0645\u062d\u0645\u062f \u062d\u0627\u0645\u062f -\u0645\u064a\u062a \u063a\u0645\u0631- \u0627\u0644\u0645\u0646\u0635\u0648\u0631\u0647  Dakahlia"},{"image":"https:\/\/smarttechnology-eg.com\/244-cart_default\/dell-g15-5511-gaming-laptop-intel-core-i7-11800h-16gb-ram-512gb-ssd-nvidia-rtx-3060-6gb-gddr6-156-fhd-120hz-ubuntu.jpg","title":"Dell G15 5511 Gaming Laptop - Intel Core I7-11800H - 16GB RAM - 512GB SSD - NVIDIA RTX 3060 6GB GDDR6 -15.6 FHD 120Hz - Ubuntu","url":"https:\/\/smarttechnology-eg.com\/en\/gaming-laptops\/59-dell-g15-5511-gaming-laptop-intel-core-i7-11800h-16gb-ram-512gb-ssd-nvidia-rtx-3060-6gb-gddr6-156-fhd-120hz-ubuntu.html","id_product":"59","time":"Puchare By Ahawary 52 minutes ago","phone":"xxx18100826","address":"\u0668 \u0634\u0627\u0631\u0639 \u0645\u062d\u0645\u062f \u062d\u0627\u0645\u062f -\u0645\u064a\u062a \u063a\u0645\u0631- \u0627\u0644\u0645\u0646\u0635\u0648\u0631\u0647  Dakahlia"},{"image":"https:\/\/smarttechnology-eg.com\/856-cart_default\/dell-vostro-3510-intel-core-i7-1165g7-8gb-ram-1tb-hdd-156-inch-fhd-nvidia-mx350-gpu-ubuntu-black.jpg","title":"Dell Vostro 3510 - Intel Core I7-1165G7 - 8GB RAM - 1TB HDD - 15.6-inch FHD - NVIDIA MX350 GPU - Ubuntu - Black","url":"https:\/\/smarttechnology-eg.com\/en\/business-laptops\/280-dell-vostro-3510-intel-core-i7-1165g7-8gb-ram-1tb-hdd-156-inch-fhd-nvidia-mx350-gpu-ubuntu-black.html","id_product":"280","time":"Puchare By Ahawary 47 minutes ago","phone":"xxx18100826","address":"\u0668 \u0634\u0627\u0631\u0639 \u0645\u062d\u0645\u062f \u062d\u0627\u0645\u062f -\u0645\u064a\u062a \u063a\u0645\u0631- \u0627\u0644\u0645\u0646\u0635\u0648\u0631\u0647  Dakahlia"},{"image":"https:\/\/smarttechnology-eg.com\/499-cart_default\/logitech-g102-light-sync-rgb-gaming-mouse-8000-dpi-black.jpg","title":"Logitech G102 Light Sync RGB Gaming Mouse \u2013 8,000 DPI - Black","url":"https:\/\/smarttechnology-eg.com\/en\/mouses\/163-logitech-g102-light-sync-rgb-gaming-mouse-8000-dpi-black.html","id_product":"163","time":"Puchare By Ahawary 17 minutes ago","phone":"xxx18100826","address":"\u0668 \u0634\u0627\u0631\u0639 \u0645\u062d\u0645\u062f \u062d\u0627\u0645\u062f -\u0645\u064a\u062a \u063a\u0645\u0631- \u0627\u0644\u0645\u0646\u0635\u0648\u0631\u0647  Dakahlia"},{"image":"https:\/\/smarttechnology-eg.com\/580-cart_default\/logitech-wireless-mouse-m330-silent-plus-black.jpg","title":"Logitech Wireless Mouse M330 Silent Plus - Black","url":"https:\/\/smarttechnology-eg.com\/en\/mouses\/184-logitech-wireless-mouse-m330-silent-plus-black.html","id_product":"184","time":"Puchare By Ahawary 8 minutes ago","phone":"xxx18100826","address":"\u0668 \u0634\u0627\u0631\u0639 \u0645\u062d\u0645\u062f \u062d\u0627\u0645\u062f -\u0645\u064a\u062a \u063a\u0645\u0631- \u0627\u0644\u0645\u0646\u0635\u0648\u0631\u0647  Dakahlia"},{"image":"https:\/\/smarttechnology-eg.com\/919-cart_default\/ideapad-3-15iml05-core-i3-10110u-mx130-2gb-4gb-ram-1tb-hdd-156-fhd-dos-platinum-grey.jpg","title":"IdeaPad 3 15IML05 -Core i3-10110U -MX130 2GB  -4GB RAM -1TB HDD -15.6\" FHD -DOS- Platinum Grey","url":"https:\/\/smarttechnology-eg.com\/en\/business-laptops\/295-ideapad-3-15iml05-core-i3-10110u-mx130-2gb-4gb-ram-1tb-hdd-156-fhd-dos-platinum-grey.html","id_product":"295","time":"Puchare By \u0632\u0633\u064a\u062f 24 minutes ago","phone":"xxx90645929","address":"\u0627\u0644\u0628\u062d\u0631 \u0627\u0644\u0627\u062d\u0645\u0631 - \u0633\u0641\u0627\u062c\u0627 - \u0627\u0645\u0627\u0645 \u0645\u0633\u062c\u062f \u0627\u0628\u0648 \u0639\u0634\u0631\u0629 Red Sea (laptop)"},{"image":"https:\/\/smarttechnology-eg.com\/848-cart_default\/ideapad-5-15itl05-intel-core-i7-1165g7-intel-iris-xe-graphics-8gb-ram-256gb-ssd-1tb-hdd-156-fhd-ips-dos-black.jpg","title":"IdeaPad 5 15ITL05 Intel Core I7-1165G7- Intel Iris Xe Graphics - 8GB RAM - 256GB SSD - 1TB HDD - 15.6 FHD IPS - Dos - Black","url":"https:\/\/smarttechnology-eg.com\/en\/business-laptops\/277-ideapad-5-15itl05-intel-core-i7-1165g7-intel-iris-xe-graphics-8gb-ram-256gb-ssd-1tb-hdd-156-fhd-ips-dos-black.html","id_product":"277","time":"Puchare By \u0632\u0633\u064a\u062f 45 minutes ago","phone":"xxx90645929","address":"\u0627\u0644\u0628\u062d\u0631 \u0627\u0644\u0627\u062d\u0645\u0631 - \u0633\u0641\u0627\u062c\u0627 - \u0627\u0645\u0627\u0645 \u0645\u0633\u062c\u062f \u0627\u0628\u0648 \u0639\u0634\u0631\u0629 Red Sea (laptop)"},{"image":"https:\/\/smarttechnology-eg.com\/1049-cart_default\/g15-5510-gaming-laptop-intel-core-i5-10500h-8gb-ram-512gb-ssd-nvidia-geforce-gtx-1650-4gb-156-fhd-display-ubuntu.jpg","title":"Dell G15 5510 Gaming Laptop - Intel Core I5-10500H - 8GB RAM - 512GB SSD - Nvidia GeForce GTX 1650 4GB - 15.6  FHD - Ubuntu","url":"https:\/\/smarttechnology-eg.com\/en\/gaming-laptops\/55-g15-5510-gaming-laptop-intel-core-i5-10500h-8gb-ram-512gb-ssd-nvidia-geforce-gtx-1650-4gb-156-fhd-display-ubuntu.html","id_product":"55","time":"Puchare By \u0632\u0633\u064a\u062f 11 minutes ago","phone":"xxx90645929","address":"\u0627\u0644\u0628\u062d\u0631 \u0627\u0644\u0627\u062d\u0645\u0631 - \u0633\u0641\u0627\u062c\u0627 - \u0627\u0645\u0627\u0645 \u0645\u0633\u062c\u062f \u0627\u0628\u0648 \u0639\u0634\u0631\u0629 Red Sea (laptop)"},{"image":"https:\/\/smarttechnology-eg.com\/244-cart_default\/dell-g15-5511-gaming-laptop-intel-core-i7-11800h-16gb-ram-512gb-ssd-nvidia-rtx-3060-6gb-gddr6-156-fhd-120hz-ubuntu.jpg","title":"Dell G15 5511 Gaming Laptop - Intel Core I7-11800H - 16GB RAM - 512GB SSD - NVIDIA RTX 3060 6GB GDDR6 -15.6 FHD 120Hz - Ubuntu","url":"https:\/\/smarttechnology-eg.com\/en\/gaming-laptops\/59-dell-g15-5511-gaming-laptop-intel-core-i7-11800h-16gb-ram-512gb-ssd-nvidia-rtx-3060-6gb-gddr6-156-fhd-120hz-ubuntu.html","id_product":"59","time":"Puchare By \u0632\u0633\u064a\u062f 20 minutes ago","phone":"xxx90645929","address":"\u0627\u0644\u0628\u062d\u0631 \u0627\u0644\u0627\u062d\u0645\u0631 - \u0633\u0641\u0627\u062c\u0627 - \u0627\u0645\u0627\u0645 \u0645\u0633\u062c\u062f \u0627\u0628\u0648 \u0639\u0634\u0631\u0629 Red Sea (laptop)"},{"image":"https:\/\/smarttechnology-eg.com\/856-cart_default\/dell-vostro-3510-intel-core-i7-1165g7-8gb-ram-1tb-hdd-156-inch-fhd-nvidia-mx350-gpu-ubuntu-black.jpg","title":"Dell Vostro 3510 - Intel Core I7-1165G7 - 8GB RAM - 1TB HDD - 15.6-inch FHD - NVIDIA MX350 GPU - Ubuntu - Black","url":"https:\/\/smarttechnology-eg.com\/en\/business-laptops\/280-dell-vostro-3510-intel-core-i7-1165g7-8gb-ram-1tb-hdd-156-inch-fhd-nvidia-mx350-gpu-ubuntu-black.html","id_product":"280","time":"Puchare By \u0632\u0633\u064a\u062f 39 minutes ago","phone":"xxx90645929","address":"\u0627\u0644\u0628\u062d\u0631 \u0627\u0644\u0627\u062d\u0645\u0631 - \u0633\u0641\u0627\u062c\u0627 - \u0627\u0645\u0627\u0645 \u0645\u0633\u062c\u062f \u0627\u0628\u0648 \u0639\u0634\u0631\u0629 Red Sea (laptop)"},{"image":"https:\/\/smarttechnology-eg.com\/499-cart_default\/logitech-g102-light-sync-rgb-gaming-mouse-8000-dpi-black.jpg","title":"Logitech G102 Light Sync RGB Gaming Mouse \u2013 8,000 DPI - Black","url":"https:\/\/smarttechnology-eg.com\/en\/mouses\/163-logitech-g102-light-sync-rgb-gaming-mouse-8000-dpi-black.html","id_product":"163","time":"Puchare By \u0632\u0633\u064a\u062f 37 minutes ago","phone":"xxx90645929","address":"\u0627\u0644\u0628\u062d\u0631 \u0627\u0644\u0627\u062d\u0645\u0631 - \u0633\u0641\u0627\u062c\u0627 - \u0627\u0645\u0627\u0645 \u0645\u0633\u062c\u062f \u0627\u0628\u0648 \u0639\u0634\u0631\u0629 Red Sea (laptop)"},{"image":"https:\/\/smarttechnology-eg.com\/580-cart_default\/logitech-wireless-mouse-m330-silent-plus-black.jpg","title":"Logitech Wireless Mouse M330 Silent Plus - Black","url":"https:\/\/smarttechnology-eg.com\/en\/mouses\/184-logitech-wireless-mouse-m330-silent-plus-black.html","id_product":"184","time":"Puchare By \u0632\u0633\u064a\u062f 14 minutes ago","phone":"xxx90645929","address":"\u0627\u0644\u0628\u062d\u0631 \u0627\u0644\u0627\u062d\u0645\u0631 - \u0633\u0641\u0627\u062c\u0627 - \u0627\u0645\u0627\u0645 \u0645\u0633\u062c\u062f \u0627\u0628\u0648 \u0639\u0634\u0631\u0629 Red Sea (laptop)"},{"image":"https:\/\/smarttechnology-eg.com\/919-cart_default\/ideapad-3-15iml05-core-i3-10110u-mx130-2gb-4gb-ram-1tb-hdd-156-fhd-dos-platinum-grey.jpg","title":"IdeaPad 3 15IML05 -Core i3-10110U -MX130 2GB  -4GB RAM -1TB HDD -15.6\" FHD -DOS- Platinum Grey","url":"https:\/\/smarttechnology-eg.com\/en\/business-laptops\/295-ideapad-3-15iml05-core-i3-10110u-mx130-2gb-4gb-ram-1tb-hdd-156-fhd-dos-platinum-grey.html","id_product":"295","time":"Puchare By \u062e\u0639\u0631\u0628 24 minutes ago","phone":"xxx92048376","address":"\u062f\u0645\u0646\u0647\u0648\u0631 \u062f\u0648\u0631\u0627\u0646 \u0627\u0644\u0627\u0633\u062a\u0627\u062f \u0627\u0645\u0627\u0645 \u0645\u0637\u0639\u0645 \u0639\u0628\u062f \u0627\u0644\u0644\u0627\u0647 Beheira"},{"image":"https:\/\/smarttechnology-eg.com\/848-cart_default\/ideapad-5-15itl05-intel-core-i7-1165g7-intel-iris-xe-graphics-8gb-ram-256gb-ssd-1tb-hdd-156-fhd-ips-dos-black.jpg","title":"IdeaPad 5 15ITL05 Intel Core I7-1165G7- Intel Iris Xe Graphics - 8GB RAM - 256GB SSD - 1TB HDD - 15.6 FHD IPS - Dos - Black","url":"https:\/\/smarttechnology-eg.com\/en\/business-laptops\/277-ideapad-5-15itl05-intel-core-i7-1165g7-intel-iris-xe-graphics-8gb-ram-256gb-ssd-1tb-hdd-156-fhd-ips-dos-black.html","id_product":"277","time":"Puchare By \u062e\u0639\u0631\u0628 6 minutes ago","phone":"xxx92048376","address":"\u062f\u0645\u0646\u0647\u0648\u0631 \u062f\u0648\u0631\u0627\u0646 \u0627\u0644\u0627\u0633\u062a\u0627\u062f \u0627\u0645\u0627\u0645 \u0645\u0637\u0639\u0645 \u0639\u0628\u062f \u0627\u0644\u0644\u0627\u0647 Beheira"},{"image":"https:\/\/smarttechnology-eg.com\/1049-cart_default\/g15-5510-gaming-laptop-intel-core-i5-10500h-8gb-ram-512gb-ssd-nvidia-geforce-gtx-1650-4gb-156-fhd-display-ubuntu.jpg","title":"Dell G15 5510 Gaming Laptop - Intel Core I5-10500H - 8GB RAM - 512GB SSD - Nvidia GeForce GTX 1650 4GB - 15.6  FHD - Ubuntu","url":"https:\/\/smarttechnology-eg.com\/en\/gaming-laptops\/55-g15-5510-gaming-laptop-intel-core-i5-10500h-8gb-ram-512gb-ssd-nvidia-geforce-gtx-1650-4gb-156-fhd-display-ubuntu.html","id_product":"55","time":"Puchare By \u062e\u0639\u0631\u0628 16 minutes ago","phone":"xxx92048376","address":"\u062f\u0645\u0646\u0647\u0648\u0631 \u062f\u0648\u0631\u0627\u0646 \u0627\u0644\u0627\u0633\u062a\u0627\u062f \u0627\u0645\u0627\u0645 \u0645\u0637\u0639\u0645 \u0639\u0628\u062f \u0627\u0644\u0644\u0627\u0647 Beheira"},{"image":"https:\/\/smarttechnology-eg.com\/244-cart_default\/dell-g15-5511-gaming-laptop-intel-core-i7-11800h-16gb-ram-512gb-ssd-nvidia-rtx-3060-6gb-gddr6-156-fhd-120hz-ubuntu.jpg","title":"Dell G15 5511 Gaming Laptop - Intel Core I7-11800H - 16GB RAM - 512GB SSD - NVIDIA RTX 3060 6GB GDDR6 -15.6 FHD 120Hz - Ubuntu","url":"https:\/\/smarttechnology-eg.com\/en\/gaming-laptops\/59-dell-g15-5511-gaming-laptop-intel-core-i7-11800h-16gb-ram-512gb-ssd-nvidia-rtx-3060-6gb-gddr6-156-fhd-120hz-ubuntu.html","id_product":"59","time":"Puchare By \u062e\u0639\u0631\u0628 27 minutes ago","phone":"xxx92048376","address":"\u062f\u0645\u0646\u0647\u0648\u0631 \u062f\u0648\u0631\u0627\u0646 \u0627\u0644\u0627\u0633\u062a\u0627\u062f \u0627\u0645\u0627\u0645 \u0645\u0637\u0639\u0645 \u0639\u0628\u062f \u0627\u0644\u0644\u0627\u0647 Beheira"},{"image":"https:\/\/smarttechnology-eg.com\/856-cart_default\/dell-vostro-3510-intel-core-i7-1165g7-8gb-ram-1tb-hdd-156-inch-fhd-nvidia-mx350-gpu-ubuntu-black.jpg","title":"Dell Vostro 3510 - Intel Core I7-1165G7 - 8GB RAM - 1TB HDD - 15.6-inch FHD - NVIDIA MX350 GPU - Ubuntu - Black","url":"https:\/\/smarttechnology-eg.com\/en\/business-laptops\/280-dell-vostro-3510-intel-core-i7-1165g7-8gb-ram-1tb-hdd-156-inch-fhd-nvidia-mx350-gpu-ubuntu-black.html","id_product":"280","time":"Puchare By \u062e\u0639\u0631\u0628 43 minutes ago","phone":"xxx92048376","address":"\u062f\u0645\u0646\u0647\u0648\u0631 \u062f\u0648\u0631\u0627\u0646 \u0627\u0644\u0627\u0633\u062a\u0627\u062f \u0627\u0645\u0627\u0645 \u0645\u0637\u0639\u0645 \u0639\u0628\u062f \u0627\u0644\u0644\u0627\u0647 Beheira"},{"image":"https:\/\/smarttechnology-eg.com\/499-cart_default\/logitech-g102-light-sync-rgb-gaming-mouse-8000-dpi-black.jpg","title":"Logitech G102 Light Sync RGB Gaming Mouse \u2013 8,000 DPI - Black","url":"https:\/\/smarttechnology-eg.com\/en\/mouses\/163-logitech-g102-light-sync-rgb-gaming-mouse-8000-dpi-black.html","id_product":"163","time":"Puchare By \u062e\u0639\u0631\u0628 12 minutes ago","phone":"xxx92048376","address":"\u062f\u0645\u0646\u0647\u0648\u0631 \u062f\u0648\u0631\u0627\u0646 \u0627\u0644\u0627\u0633\u062a\u0627\u062f \u0627\u0645\u0627\u0645 \u0645\u0637\u0639\u0645 \u0639\u0628\u062f \u0627\u0644\u0644\u0627\u0647 Beheira"},{"image":"https:\/\/smarttechnology-eg.com\/580-cart_default\/logitech-wireless-mouse-m330-silent-plus-black.jpg","title":"Logitech Wireless Mouse M330 Silent Plus - Black","url":"https:\/\/smarttechnology-eg.com\/en\/mouses\/184-logitech-wireless-mouse-m330-silent-plus-black.html","id_product":"184","time":"Puchare By \u062e\u0639\u0631\u0628 7 minutes ago","phone":"xxx92048376","address":"\u062f\u0645\u0646\u0647\u0648\u0631 \u062f\u0648\u0631\u0627\u0646 \u0627\u0644\u0627\u0633\u062a\u0627\u062f \u0627\u0645\u0627\u0645 \u0645\u0637\u0639\u0645 \u0639\u0628\u062f \u0627\u0644\u0644\u0627\u0647 Beheira"},{"image":"https:\/\/smarttechnology-eg.com\/919-cart_default\/ideapad-3-15iml05-core-i3-10110u-mx130-2gb-4gb-ram-1tb-hdd-156-fhd-dos-platinum-grey.jpg","title":"IdeaPad 3 15IML05 -Core i3-10110U -MX130 2GB  -4GB RAM -1TB HDD -15.6\" FHD -DOS- Platinum Grey","url":"https:\/\/smarttechnology-eg.com\/en\/business-laptops\/295-ideapad-3-15iml05-core-i3-10110u-mx130-2gb-4gb-ram-1tb-hdd-156-fhd-dos-platinum-grey.html","id_product":"295","time":"Puchare By AKhaire 36 minutes ago","phone":"xxx54586665","address":"2 tawfik ibrahim Cairo"},{"image":"https:\/\/smarttechnology-eg.com\/848-cart_default\/ideapad-5-15itl05-intel-core-i7-1165g7-intel-iris-xe-graphics-8gb-ram-256gb-ssd-1tb-hdd-156-fhd-ips-dos-black.jpg","title":"IdeaPad 5 15ITL05 Intel Core I7-1165G7- Intel Iris Xe Graphics - 8GB RAM - 256GB SSD - 1TB HDD - 15.6 FHD IPS - Dos - Black","url":"https:\/\/smarttechnology-eg.com\/en\/business-laptops\/277-ideapad-5-15itl05-intel-core-i7-1165g7-intel-iris-xe-graphics-8gb-ram-256gb-ssd-1tb-hdd-156-fhd-ips-dos-black.html","id_product":"277","time":"Puchare By AKhaire 46 minutes ago","phone":"xxx54586665","address":"2 tawfik ibrahim Cairo"},{"image":"https:\/\/smarttechnology-eg.com\/1049-cart_default\/g15-5510-gaming-laptop-intel-core-i5-10500h-8gb-ram-512gb-ssd-nvidia-geforce-gtx-1650-4gb-156-fhd-display-ubuntu.jpg","title":"Dell G15 5510 Gaming Laptop - Intel Core I5-10500H - 8GB RAM - 512GB SSD - Nvidia GeForce GTX 1650 4GB - 15.6  FHD - Ubuntu","url":"https:\/\/smarttechnology-eg.com\/en\/gaming-laptops\/55-g15-5510-gaming-laptop-intel-core-i5-10500h-8gb-ram-512gb-ssd-nvidia-geforce-gtx-1650-4gb-156-fhd-display-ubuntu.html","id_product":"55","time":"Puchare By AKhaire 29 minutes ago","phone":"xxx54586665","address":"2 tawfik ibrahim Cairo"},{"image":"https:\/\/smarttechnology-eg.com\/244-cart_default\/dell-g15-5511-gaming-laptop-intel-core-i7-11800h-16gb-ram-512gb-ssd-nvidia-rtx-3060-6gb-gddr6-156-fhd-120hz-ubuntu.jpg","title":"Dell G15 5511 Gaming Laptop - Intel Core I7-11800H - 16GB RAM - 512GB SSD - NVIDIA RTX 3060 6GB GDDR6 -15.6 FHD 120Hz - Ubuntu","url":"https:\/\/smarttechnology-eg.com\/en\/gaming-laptops\/59-dell-g15-5511-gaming-laptop-intel-core-i7-11800h-16gb-ram-512gb-ssd-nvidia-rtx-3060-6gb-gddr6-156-fhd-120hz-ubuntu.html","id_product":"59","time":"Puchare By AKhaire 26 minutes ago","phone":"xxx54586665","address":"2 tawfik ibrahim Cairo"},{"image":"https:\/\/smarttechnology-eg.com\/856-cart_default\/dell-vostro-3510-intel-core-i7-1165g7-8gb-ram-1tb-hdd-156-inch-fhd-nvidia-mx350-gpu-ubuntu-black.jpg","title":"Dell Vostro 3510 - Intel Core I7-1165G7 - 8GB RAM - 1TB HDD - 15.6-inch FHD - NVIDIA MX350 GPU - Ubuntu - Black","url":"https:\/\/smarttechnology-eg.com\/en\/business-laptops\/280-dell-vostro-3510-intel-core-i7-1165g7-8gb-ram-1tb-hdd-156-inch-fhd-nvidia-mx350-gpu-ubuntu-black.html","id_product":"280","time":"Puchare By AKhaire 35 minutes ago","phone":"xxx54586665","address":"2 tawfik ibrahim Cairo"},{"image":"https:\/\/smarttechnology-eg.com\/499-cart_default\/logitech-g102-light-sync-rgb-gaming-mouse-8000-dpi-black.jpg","title":"Logitech G102 Light Sync RGB Gaming Mouse \u2013 8,000 DPI - Black","url":"https:\/\/smarttechnology-eg.com\/en\/mouses\/163-logitech-g102-light-sync-rgb-gaming-mouse-8000-dpi-black.html","id_product":"163","time":"Puchare By AKhaire 2 minutes ago","phone":"xxx54586665","address":"2 tawfik ibrahim Cairo"},{"image":"https:\/\/smarttechnology-eg.com\/580-cart_default\/logitech-wireless-mouse-m330-silent-plus-black.jpg","title":"Logitech Wireless Mouse M330 Silent Plus - Black","url":"https:\/\/smarttechnology-eg.com\/en\/mouses\/184-logitech-wireless-mouse-m330-silent-plus-black.html","id_product":"184","time":"Puchare By AKhaire 21 minutes ago","phone":"xxx54586665","address":"2 tawfik ibrahim Cairo"}];
-        var disable_review_form_txt = "Not exists a criterion to review for this product or this language";
-        var enable_dropdown_defaultcart = 1;
-        var enable_flycart_effect = 1;
-        var enable_notification = 0;
-        var height_cart_item = "135";
-        var isLogged = false;
-        var leo_search_url = "https:\/\/smarttechnology-eg.com\/en\/module\/leoproductsearch\/productsearch";
-        var leo_token = "ec3cbc7277ebb7871f4397e5b13de7f6";
-        var leoproductsearch_static_token = "ec3cbc7277ebb7871f4397e5b13de7f6";
-        var leoproductsearch_token = "b0fb4f726efdc8445cae7b7ca97435d9";
-        var lf_is_gen_rtl = false;
-        var lps_show_product_img = "1";
-        var lps_show_product_price = "1";
-        var number_cartitem_display = 3;
-        var numpro_display = "100";
-        var prestashop = {"cart":{"products":[],"totals":{"total":{"type":"total","label":"Total","amount":0,"value":"EGP0.00"},"total_including_tax":{"type":"total","label":"Total (tax incl.)","amount":0,"value":"EGP0.00"},"total_excluding_tax":{"type":"total","label":"Total (tax excl.)","amount":0,"value":"EGP0.00"}},"subtotals":{"products":{"type":"products","label":"Subtotal","amount":0,"value":"EGP0.00"},"discounts":null,"shipping":{"type":"shipping","label":"Shipping","amount":0,"value":""},"tax":null},"products_count":0,"summary_string":"0 items","vouchers":{"allowed":1,"added":[]},"discounts":[],"minimalPurchase":0,"minimalPurchaseRequired":""},"currency":{"id":1,"name":"Egyptian Pound","iso_code":"EGP","iso_code_num":"818","sign":"EGP"},"customer":{"lastname":null,"firstname":null,"email":null,"birthday":null,"newsletter":null,"newsletter_date_add":null,"optin":null,"website":null,"company":null,"siret":null,"ape":null,"is_logged":false,"gender":{"type":null,"name":null},"addresses":[]},"language":{"name":"English (English)","iso_code":"en","locale":"en-US","language_code":"en-us","is_rtl":"0","date_format_lite":"m\/d\/Y","date_format_full":"m\/d\/Y H:i:s","id":1},"page":{"title":"","canonical":"https:\/\/smarttechnology-eg.com\/en\/business-monitors\/333-dell-monitor-e1920h-flat-19-inch-led-hd-60hz.html","meta":{"title":"DELL MONITOR E1920H FLAT 19 INCH LED HD 60HZ","description":"","keywords":"","robots":"index"},"page_name":"product","body_classes":{"lang-en":true,"lang-rtl":false,"country-EG":true,"currency-EGP":true,"layout-full-width":true,"page-product":true,"tax-display-enabled":true,"product-id-333":true,"product-DELL MONITOR E1920H FLAT 19 INCH LED HD 60HZ":true,"product-id-category-10":true,"product-id-manufacturer-2":true,"product-id-supplier-0":true,"product-available-for-order":true},"admin_notifications":[]},"shop":{"name":"Smart Technology - \u0633\u0645\u0627\u0631\u062a \u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a","logo":"https:\/\/smarttechnology-eg.com\/img\/logo-1640790748.jpg","stores_icon":"https:\/\/smarttechnology-eg.com\/img\/logo_stores.png","favicon":"https:\/\/smarttechnology-eg.com\/img\/favicon.ico"},"urls":{"base_url":"https:\/\/smarttechnology-eg.com\/","current_url":"https:\/\/smarttechnology-eg.com\/en\/business-monitors\/333-dell-monitor-e1920h-flat-19-inch-led-hd-60hz.html","shop_domain_url":"https:\/\/smarttechnology-eg.com","img_ps_url":"https:\/\/smarttechnology-eg.com\/img\/","img_cat_url":"https:\/\/smarttechnology-eg.com\/img\/c\/","img_lang_url":"https:\/\/smarttechnology-eg.com\/img\/l\/","img_prod_url":"https:\/\/smarttechnology-eg.com\/img\/p\/","img_manu_url":"https:\/\/smarttechnology-eg.com\/img\/m\/","img_sup_url":"https:\/\/smarttechnology-eg.com\/img\/su\/","img_ship_url":"https:\/\/smarttechnology-eg.com\/img\/s\/","img_store_url":"https:\/\/smarttechnology-eg.com\/img\/st\/","img_col_url":"https:\/\/smarttechnology-eg.com\/img\/co\/","img_url":"https:\/\/smarttechnology-eg.com\/themes\/leo_shopmal\/assets\/img\/","css_url":"https:\/\/smarttechnology-eg.com\/themes\/leo_shopmal\/assets\/css\/","js_url":"https:\/\/smarttechnology-eg.com\/themes\/leo_shopmal\/assets\/js\/","pic_url":"https:\/\/smarttechnology-eg.com\/upload\/","pages":{"address":"https:\/\/smarttechnology-eg.com\/en\/address","addresses":"https:\/\/smarttechnology-eg.com\/en\/addresses","authentication":"https:\/\/smarttechnology-eg.com\/en\/login","cart":"https:\/\/smarttechnology-eg.com\/en\/cart","category":"https:\/\/smarttechnology-eg.com\/en\/index.php?controller=category","cms":"https:\/\/smarttechnology-eg.com\/en\/index.php?controller=cms","contact":"https:\/\/smarttechnology-eg.com\/en\/d-us","discount":"https:\/\/smarttechnology-eg.com\/en\/discount","guest_tracking":"https:\/\/smarttechnology-eg.com\/en\/guest-tracking","history":"https:\/\/smarttechnology-eg.com\/en\/order-history","identity":"https:\/\/smarttechnology-eg.com\/en\/identity","index":"https:\/\/smarttechnology-eg.com\/en\/","my_account":"https:\/\/smarttechnology-eg.com\/en\/my-account","order_confirmation":"https:\/\/smarttechnology-eg.com\/en\/order-confirmation","order_detail":"https:\/\/smarttechnology-eg.com\/en\/index.php?controller=order-detail","order_follow":"https:\/\/smarttechnology-eg.com\/en\/order-follow","order":"https:\/\/smarttechnology-eg.com\/en\/order","order_return":"https:\/\/smarttechnology-eg.com\/en\/index.php?controller=order-return","order_slip":"https:\/\/smarttechnology-eg.com\/en\/credit-slip","pagenotfound":"https:\/\/smarttechnology-eg.com\/en\/page-not-found","password":"https:\/\/smarttechnology-eg.com\/en\/password-recovery","pdf_invoice":"https:\/\/smarttechnology-eg.com\/en\/index.php?controller=pdf-invoice","pdf_order_return":"https:\/\/smarttechnology-eg.com\/en\/index.php?controller=pdf-order-return","pdf_order_slip":"https:\/\/smarttechnology-eg.com\/en\/index.php?controller=pdf-order-slip","prices_drop":"https:\/\/smarttechnology-eg.com\/en\/prices-drop","product":"https:\/\/smarttechnology-eg.com\/en\/index.php?controller=product","search":"https:\/\/smarttechnology-eg.com\/en\/search","sitemap":"https:\/\/smarttechnology-eg.com\/en\/sitemap","stores":"https:\/\/smarttechnology-eg.com\/en\/stores","supplier":"https:\/\/smarttechnology-eg.com\/en\/supplier","register":"https:\/\/smarttechnology-eg.com\/en\/login?create_account=1","order_login":"https:\/\/smarttechnology-eg.com\/en\/order?login=1"},"alternative_langs":{"en-us":"https:\/\/smarttechnology-eg.com\/en\/business-monitors\/333-dell-monitor-e1920h-flat-19-inch-led-hd-60hz.html","ar":"https:\/\/smarttechnology-eg.com\/ar\/business-monitors\/333-dell-monitor-e1920h-flat-19-inch-led-hd-60hz.html"},"theme_assets":"\/themes\/leo_shopmal\/assets\/","actions":{"logout":"https:\/\/smarttechnology-eg.com\/en\/?mylogout="},"no_picture_image":{"bySize":{"small_default":{"url":"https:\/\/smarttechnology-eg.com\/img\/p\/en-default-small_default.jpg","width":98,"height":98},"cart_default":{"url":"https:\/\/smarttechnology-eg.com\/img\/p\/en-default-cart_default.jpg","width":125,"height":125},"home_default":{"url":"https:\/\/smarttechnology-eg.com\/img\/p\/en-default-home_default.jpg","width":245,"height":245},"medium_default":{"url":"https:\/\/smarttechnology-eg.com\/img\/p\/en-default-medium_default.jpg","width":452,"height":452},"large_default":{"url":"https:\/\/smarttechnology-eg.com\/img\/p\/en-default-large_default.jpg","width":800,"height":800}},"small":{"url":"https:\/\/smarttechnology-eg.com\/img\/p\/en-default-small_default.jpg","width":98,"height":98},"medium":{"url":"https:\/\/smarttechnology-eg.com\/img\/p\/en-default-home_default.jpg","width":245,"height":245},"large":{"url":"https:\/\/smarttechnology-eg.com\/img\/p\/en-default-large_default.jpg","width":800,"height":800},"legend":""}},"configuration":{"display_taxes_label":true,"display_prices_tax_incl":true,"is_catalog":false,"show_prices":true,"opt_in":{"partner":false},"quantity_discount":{"type":"discount","label":"Unit discount"},"voucher_enabled":1,"return_enabled":0},"field_required":[],"breadcrumb":{"links":[{"title":"Home","url":"https:\/\/smarttechnology-eg.com\/en\/"},{"title":"Monitors","url":"https:\/\/smarttechnology-eg.com\/en\/8-monitors"},{"title":"Business Monitors","url":"https:\/\/smarttechnology-eg.com\/en\/10-business-monitors"},{"title":"DELL MONITOR E1920H FLAT 19 INCH LED HD 60HZ","url":"https:\/\/smarttechnology-eg.com\/en\/business-monitors\/333-dell-monitor-e1920h-flat-19-inch-led-hd-60hz.html"}],"count":4},"link":{"protocol_link":"https:\/\/","protocol_content":"https:\/\/"},"time":1660761717,"static_token":"ec3cbc7277ebb7871f4397e5b13de7f6","token":"b0fb4f726efdc8445cae7b7ca97435d9","debug":false};
-        var prestashopFacebookAjaxController = "https:\/\/smarttechnology-eg.com\/en\/module\/ps_facebook\/Ajax";
-        var productcompare_add = "The product has been added to list compare";
-        var productcompare_add_error = "An error occurred while adding. Please try again";
-        var productcompare_max_item = "You cannot add more than 3 product(s) to the product comparison";
-        var productcompare_remove = "The product was successfully removed from list compare";
-        var productcompare_remove_error = "An error occurred while removing. Please try again";
-        var productcompare_url = "https:\/\/smarttechnology-eg.com\/en\/module\/leofeature\/productscompare";
-        var productcompare_viewlistcompare = "View list compare";
-        var psemailsubscription_subscription = "https:\/\/smarttechnology-eg.com\/en\/module\/ps_emailsubscription\/subscription";
-        var psr_icon_color = "#F19D76";
-        var review_error = "An error occurred while processing your request. Please try again";
-        var show_popup = 1;
-        var text_no_product = "Don't have products";
-        var text_results_count = "results";
-        var type_dropdown_defaultcart = "dropdown";
-        var type_flycart_effect = "fade";
-        var url_leoproductattribute = "https:\/\/smarttechnology-eg.com\/en\/module\/leofeature\/LeoProductAttribute";
-        var width_cart_item = "265";
-        var wishlist_add = "The product was successfully added to your wishlist";
-        var wishlist_cancel_txt = "Cancel";
-        var wishlist_confirm_del_txt = "Delete selected item?";
-        var wishlist_del_default_txt = "Cannot delete default wishlist";
-        var wishlist_email_txt = "Email";
-        var wishlist_loggin_required = "You must be logged in to manage your wishlist";
-        var wishlist_ok_txt = "Ok";
-        var wishlist_quantity_required = "You must enter a quantity";
-        var wishlist_remove = "The product was successfully removed from your wishlist";
-        var wishlist_reset_txt = "Reset";
-        var wishlist_send_txt = "Send";
-        var wishlist_send_wishlist_txt = "Send wishlist";
-        var wishlist_url = "https:\/\/smarttechnology-eg.com\/en\/module\/leofeature\/mywishlist";
-        var wishlist_viewwishlist = "View your wishlist";
-      </script>
-<script type="text/javascript">
-	var choosefile_text = "Choose file";
-	var turnoff_popup_text = "Do not show this popup again";
-	
-	var size_item_quickview = 113;
-	var style_scroll_quickview = 'vertical';
-	
-	var size_item_page = 113;
-	var style_scroll_page = 'horizontal';
-	
-	var size_item_quickview_attr = 113;	
-	var style_scroll_quickview_attr = 'vertical';
-	
-	var size_item_popup = 113;
-	var style_scroll_popup = 'vertical';
-</script>
+    var LEO_COOKIE_THEME = "LEO_SHOPMAL_PANEL_CONFIG";
+    var add_cart_error = "An error occurred while processing your request. Please try again";
+    var ajaxsearch = "1";
+    var buttoncompare_title_add = "Add to Compare";
+    var buttoncompare_title_remove = "Remove from Compare";
+    var buttonwishlist_title_add = "Add to Wishlist";
+    var buttonwishlist_title_remove = "Remove from WishList";
+    var cancel_rating_txt = "Cancel Rating";
+    var comparator_max_item = 3;
+    var compared_products = [];
+
+    var enable_dropdown_defaultcart = 1;
+    var enable_flycart_effect = 1;
+    var enable_notification = 0;
+    var height_cart_item = "135";
+    var isLogged = false;
+    var leo_search_url = "module\/leoproductsearch\/productsearch";
+    var leo_token = "ec3cbc7277ebb7871f4397e5b13de7f6";
+    var leoproductsearch_static_token = "ec3cbc7277ebb7871f4397e5b13de7f6";
+    var leoproductsearch_token = "b0fb4f726efdc8445cae7b7ca97435d9";
+    var lf_is_gen_rtl = false;
+    var lps_show_product_img = "1";
+    var lps_show_product_price = "1";
+    var number_cartitem_display = 3;
+    var numpro_display = "100";
+    var prestashop = {"cart":{"products":[],"totals":{"total":{"type":"total","label":"Total","amount":0,"value":"EGP0.00"},"total_including_tax":{"type":"total","label":"Total (tax incl.)","amount":0,"value":"EGP0.00"},"total_excluding_tax":{"type":"total","label":"Total (tax excl.)","amount":0,"value":"EGP0.00"}},"subtotals":{"products":{"type":"products","label":"Subtotal","amount":0,"value":"EGP0.00"},"discounts":null,"shipping":{"type":"shipping","label":"Shipping","amount":0,"value":""},"tax":null},"products_count":0,"summary_string":"0 items","vouchers":{"allowed":1,"added":[]},"discounts":[],"minimalPurchase":0,"minimalPurchaseRequired":""},"currency":{"id":1,"name":"Egyptian Pound","iso_code":"EGP","iso_code_num":"818","sign":"EGP"},"customer":{"lastname":null,"firstname":null,"email":null,"birthday":null,"newsletter":null,"newsletter_date_add":null,"optin":null,"website":null,"company":null,"siret":null,"ape":null,"is_logged":false,"gender":{"type":null,"name":null},"addresses":[]},"language":{"name":"English (English)","iso_code":"en","locale":"en-US","language_code":"en-us","is_rtl":"0","date_format_lite":"m\/d\/Y","date_format_full":"m\/d\/Y H:i:s","id":1},"page":{"title":"","canonical":"business-monitors\/333-dell-monitor-e1920h-flat-19-inch-led-hd-60hz.html","meta":{"title":"DELL MONITOR E1920H FLAT 19 INCH LED HD 60HZ","description":"","keywords":"","robots":"index"},"page_name":"product","body_classes":{"lang-en":true,"lang-rtl":false,"country-EG":true,"currency-EGP":true,"layout-full-width":true,"page-product":true,"tax-display-enabled":true,"product-id-333":true,"product-DELL MONITOR E1920H FLAT 19 INCH LED HD 60HZ":true,"product-id-category-10":true,"product-id-manufacturer-2":true,"product-id-supplier-0":true,"product-available-for-order":true},"admin_notifications":[]},"shop":{"name":"Smart Technology - \u0633\u0645\u0627\u0631\u062a \u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a","logo":"\/img\/logo-1640790748.jpg","stores_icon":"\/img\/logo_stores.png","favicon":"\/img\/favicon.ico"},"urls":{"base_url":"\/","current_url":"business-monitors\/333-dell-monitor-e1920h-flat-19-inch-led-hd-60hz.html","shop_domain_url":"","img_ps_url":"\/img\/","img_cat_url":"\/img\/c\/","img_lang_url":"\/img\/l\/","img_prod_url":"\/img\/p\/","img_manu_url":"\/img\/m\/","img_sup_url":"\/img\/su\/","img_ship_url":"\/img\/s\/","img_store_url":"\/img\/st\/","img_col_url":"\/img\/co\/","img_url":"\/themes\/leo_shopmal\/assets\/img\/","css_url":"\/themes\/leo_shopmal\/assets\/css\/","js_url":"\/themes\/leo_shopmal\/assets\/js\/","pic_url":"\/upload\/","pages":{"address":"address","addresses":"addresses","authentication":"login","cart":"cart","category":"index.php?controller=category","cms":"index.php?controller=cms","contact":"d-us","discount":"discount","guest_tracking":"guest-tracking","history":"order-history","identity":"identity","index":"","my_account":"my-account","order_confirmation":"order-confirmation","order_detail":"index.php?controller=order-detail","order_follow":"order-follow","order":"order","order_return":"index.php?controller=order-return","order_slip":"credit-slip","pagenotfound":"page-not-found","password":"password-recovery","pdf_invoice":"index.php?controller=pdf-invoice","pdf_order_return":"index.php?controller=pdf-order-return","pdf_order_slip":"index.php?controller=pdf-order-slip","prices_drop":"prices-drop","product":"index.php?controller=product","search":"search","sitemap":"sitemap","stores":"stores","supplier":"supplier","register":"login?create_account=1","order_login":"order?login=1"},"alternative_langs":{"en-us":"business-monitors\/333-dell-monitor-e1920h-flat-19-inch-led-hd-60hz.html","ar":"\/ar\/business-monitors\/333-dell-monitor-e1920h-flat-19-inch-led-hd-60hz.html"},"theme_assets":"\/themes\/leo_shopmal\/assets\/","actions":{"logout":"?mylogout="},"no_picture_image":{"bySize":{"small_default":{"url":"\/img\/p\/en-default-small_default.jpg","width":98,"height":98},"cart_default":{"url":"\/img\/p\/en-default-cart_default.jpg","width":125,"height":125},"home_default":{"url":"\/img\/p\/en-default-home_default.jpg","width":245,"height":245},"medium_default":{"url":"\/img\/p\/en-default-medium_default.jpg","width":452,"height":452},"large_default":{"url":"\/img\/p\/en-default-large_default.jpg","width":800,"height":800}},"small":{"url":"\/img\/p\/en-default-small_default.jpg","width":98,"height":98},"medium":{"url":"\/img\/p\/en-default-home_default.jpg","width":245,"height":245},"large":{"url":"\/img\/p\/en-default-large_default.jpg","width":800,"height":800},"legend":""}},"configuration":{"display_taxes_label":true,"display_prices_tax_incl":true,"is_catalog":false,"show_prices":true,"opt_in":{"partner":false},"quantity_discount":{"type":"discount","label":"Unit discount"},"voucher_enabled":1,"return_enabled":0},"field_required":[],"breadcrumb":{"links":[{"title":"Home","url":""},{"title":"Monitors","url":"8-monitors"},{"title":"Business Monitors","url":"10-business-monitors"},{"title":"DELL MONITOR E1920H FLAT 19 INCH LED HD 60HZ","url":"business-monitors\/333-dell-monitor-e1920h-flat-19-inch-led-hd-60hz.html"}],"count":4},"link":{"protocol_link":"https:\/\/","protocol_content":"https:\/\/"},"time":1660761717,"static_token":"ec3cbc7277ebb7871f4397e5b13de7f6","token":"b0fb4f726efdc8445cae7b7ca97435d9","debug":false};
+   
+  
+  </script>
 
 
-  <script type="text/javascript">
-	
-	var FancyboxI18nClose = "Close";
-	var FancyboxI18nNext = "Next";
-	var FancyboxI18nPrev = "Previous";
-	var current_link = "http://smarttechnology-eg.com/en/";		
-	var currentURL = window.location;
-	currentURL = String(currentURL);
-	currentURL = currentURL.replace("https://","").replace("http://","").replace("www.","").replace( /#\w*/, "" );
-	current_link = current_link.replace("https://","").replace("http://","").replace("www.","");
-	var text_warning_select_txt = "Please select One to remove?";
-	var text_confirm_remove_txt = "Are you sure to remove footer row?";
-	var close_bt_txt = "Close";
-	var list_menu = [];
-	var list_menu_tmp = {};
-	var list_tab = [];
-	var isHomeMenu = 0;
-	
-</script><!-- @file modules\appagebuilder\views\templates\hook\header -->
 
 <script>
 	/**
@@ -309,51 +133,12 @@
 </script>
 
 
-<script type='text/javascript'>
-	var leoOption = {
-		category_qty:0,
-		product_list_image:0,
-		product_one_img:1,
-		productCdown: 1,
-		productColor: 0,
-		homeWidth: 245,
-		homeheight: 245,
-	}
-
-	ap_list_functions.push(function(){
-		if (typeof $.LeoCustomAjax !== "undefined" && $.isFunction($.LeoCustomAjax)) {
-			var leoCustomAjax = new $.LeoCustomAjax();
-			leoCustomAjax.processAjax();
-		}
-	});
-</script>
-
-<script type="text/javascript">
-	(window.gaDevIds=window.gaDevIds||[]).push('d6YPbH');
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-            ga('create', 'UA-221141039-1', 'auto');
-                    ga('set', 'anonymizeIp', true);
-                ga('send', 'pageview');
-    
-    ga('require', 'ec');
-</script>
 
 
 
 
 
-    
-  <meta property="og:type" content="product">
-      <meta property="og:image" content="https://smarttechnology-eg.com/1039-large_default/dell-monitor-e1920h-flat-19-inch-led-hd-60hz.jpg">
-  
-      <meta property="product:pretax_price:amount" content="2192.982456">
-    <meta property="product:pretax_price:currency" content="EGP">
-    <meta property="product:price:amount" content="2500">
-    <meta property="product:price:currency" content="EGP">
+
     
   </head>
 
@@ -1659,69 +1444,49 @@
     </main>
 
     
-                         <script type="text/javascript" src="https://smarttechnology-eg.com/themes/core.js" ></script>
-                  <script type="text/javascript" src="https://smarttechnology-eg.com/themes/leo_shopmal/assets/js/theme.js" ></script>
-                  <script type="text/javascript" src="https://smarttechnology-eg.com/modules/ps_emailsubscription/views/js/ps_emailsubscription.js" ></script>
-                  <script type="text/javascript" src="https://smarttechnology-eg.com/modules/blockreassurance/views/dist/front.js" ></script>
-                  <script type="text/javascript" src="https://smarttechnology-eg.com/modules/ps_facebook/views/js/front/conversion-api.js" ></script>
-                  <script type="text/javascript" src="https://smarttechnology-eg.com/modules/leoslideshow/views/js/iView/raphael-min.js" ></script>
-                  <script type="text/javascript" src="https://smarttechnology-eg.com/modules/leoslideshow/views/js/iView/iview.js" ></script>
-                  <script type="text/javascript" src="https://smarttechnology-eg.com/modules/leoslideshow/views/js/leoslideshow.js" ></script>
-                  <script type="text/javascript" src="https://smarttechnology-eg.com/modules/leofeature/views/js/leofeature_cart.js" ></script>
-                  <script type="text/javascript" src="https://smarttechnology-eg.com/modules/leofeature/views/js/jquery.mousewheel.min.js" ></script>
-                  <script type="text/javascript" src="https://smarttechnology-eg.com/modules/leofeature/views/js/jquery.mCustomScrollbar.js" ></script>
-                  <script type="text/javascript" src="https://smarttechnology-eg.com/modules/leofeature/views/js/jquery.rating.pack.js" ></script>
-                  <script type="text/javascript" src="https://smarttechnology-eg.com/modules/leofeature/views/js/leofeature_review.js" ></script>
-                  <script type="text/javascript" src="https://smarttechnology-eg.com/modules/leofeature/views/js/leofeature_compare.js" ></script>
-                  <script type="text/javascript" src="https://smarttechnology-eg.com/modules/leofeature/views/js/leofeature_wishlist.js" ></script>
-                  <script type="text/javascript" src="https://smarttechnology-eg.com/modules/appagebuilder/views/js/countdown.js" ></script>
-                  <script type="text/javascript" src="https://smarttechnology-eg.com/modules/ps_googleanalytics/views/js/GoogleAnalyticActionLib.js" ></script>
-                  <script type="text/javascript" src="https://smarttechnology-eg.com/modules/arcontactus/views/js/jquery.contactus.min.js" ></script>
-                  <script type="text/javascript" src="https://smarttechnology-eg.com/modules/arcontactus/views/js/scripts.js" ></script>
-                  <script type="text/javascript" src="https://smarttechnology-eg.com/modules/productcomments/views/js/jquery.rating.plugin.js" ></script>
-                  <script type="text/javascript" src="https://smarttechnology-eg.com/modules/productcomments/views/js/productListingComments.js" ></script>
-                  <script type="text/javascript" src="https://smarttechnology-eg.com/modules/productcomments/views/js/post-comment.js" ></script>
-                  <script type="text/javascript" src="https://smarttechnology-eg.com/modules/productcomments/views/js/list-comments.js" ></script>
-                  <script type="text/javascript" src="https://smarttechnology-eg.com/modules/productcomments/views/js/jquery.simplePagination.js" ></script>
-                  <script type="text/javascript" src="https://smarttechnology-eg.com/modules/leopopupsale//views/js/cookie.js" ></script>
-                  <script type="text/javascript" src="https://smarttechnology-eg.com/modules/leopopupsale//views/js/front.js" ></script>
-                  <script type="text/javascript" src="https://smarttechnology-eg.com/modules/accept//views/js/front_accept.js" ></script>
-                  <script type="text/javascript" src="https://smarttechnology-eg.com/js/jquery/ui/jquery-ui.min.js" ></script>
-                  <script type="text/javascript" src="https://smarttechnology-eg.com/js/jquery/plugins/fancybox/jquery.fancybox.js" ></script>
-                  <script type="text/javascript" src="https://smarttechnology-eg.com/modules/ps_searchbar/ps_searchbar.js" ></script>
-                  <script type="text/javascript" src="https://smarttechnology-eg.com/modules/leobootstrapmenu/views/js/leobootstrapmenu.js" ></script>
-                  <script type="text/javascript" src="https://smarttechnology-eg.com/modules/blockgrouptop/views/js/blockgrouptop.js" ></script>
-                  <script type="text/javascript" src="https://smarttechnology-eg.com/modules/leoproductsearch/views/js/jquery.autocomplete_productsearch.js" ></script>
-                  <script type="text/javascript" src="https://smarttechnology-eg.com/modules/leoproductsearch/views/js/leosearch.js" ></script>
-                  <script type="text/javascript" src="https://smarttechnology-eg.com/modules/ps_shoppingcart/ps_shoppingcart.js" ></script>
-                  <script type="text/javascript" src="https://smarttechnology-eg.com/themes/leo_shopmal/assets/js/custom.js" ></script>
-                  <script type="text/javascript" src="https://smarttechnology-eg.com/modules/appagebuilder/views/js/waypoints.min.js" ></script>
-                  <script type="text/javascript" src="https://smarttechnology-eg.com/modules/appagebuilder/views/js/instafeed.min.js" ></script>
-                  <script type="text/javascript" src="https://smarttechnology-eg.com/modules/appagebuilder/views/js/jquery.stellar.js" ></script>
-                  <script type="text/javascript" src="https://smarttechnology-eg.com/modules/appagebuilder/views/js/owl.carousel.js" ></script>
-                  <script type="text/javascript" src="https://smarttechnology-eg.com/modules/appagebuilder/views/js/imagesloaded.pkgd.min.js" ></script>
-                  <script type="text/javascript" src="https://smarttechnology-eg.com/modules/appagebuilder/views/js/slick.js" ></script>
-                  <script type="text/javascript" src="https://smarttechnology-eg.com/modules/appagebuilder/views/js/jquery.elevateZoom-3.0.8.min.js" ></script>
-                  <script type="text/javascript" src="https://smarttechnology-eg.com/modules/appagebuilder/views/js/script.js" ></script>
+    <script type="text/javascript" src="https://smarttechnology-eg.com/themes/core.js" ></script>
+    <script type="text/javascript" src="https://smarttechnology-eg.com/themes/leo_shopmal/assets/js/theme.js" ></script>
+    <script type="text/javascript" src="https://smarttechnology-eg.com/modules/ps_emailsubscription/views/js/ps_emailsubscription.js" ></script>
+    <script type="text/javascript" src="https://smarttechnology-eg.com/modules/blockreassurance/views/dist/front.js" ></script>
+    <script type="text/javascript" src="https://smarttechnology-eg.com/modules/ps_facebook/views/js/front/conversion-api.js" ></script>
+    <script type="text/javascript" src="https://smarttechnology-eg.com/modules/leoslideshow/views/js/iView/raphael-min.js" ></script>
+    <script type="text/javascript" src="https://smarttechnology-eg.com/modules/leoslideshow/views/js/iView/iview.js" ></script>
+    <script type="text/javascript" src="https://smarttechnology-eg.com/modules/leoslideshow/views/js/leoslideshow.js" ></script>
+    <script type="text/javascript" src="https://smarttechnology-eg.com/modules/leofeature/views/js/leofeature_cart.js" ></script>
+    <script type="text/javascript" src="https://smarttechnology-eg.com/modules/leofeature/views/js/jquery.mousewheel.min.js" ></script>
+    <script type="text/javascript" src="https://smarttechnology-eg.com/modules/leofeature/views/js/jquery.mCustomScrollbar.js" ></script>
+    <script type="text/javascript" src="https://smarttechnology-eg.com/modules/leofeature/views/js/jquery.rating.pack.js" ></script>
+    <script type="text/javascript" src="https://smarttechnology-eg.com/modules/leofeature/views/js/leofeature_review.js" ></script>
+    <script type="text/javascript" src="https://smarttechnology-eg.com/modules/leofeature/views/js/leofeature_compare.js" ></script>
+    <script type="text/javascript" src="https://smarttechnology-eg.com/modules/leofeature/views/js/leofeature_wishlist.js" ></script>
+    <script type="text/javascript" src="https://smarttechnology-eg.com/modules/appagebuilder/views/js/countdown.js" ></script>
+    <script type="text/javascript" src="https://smarttechnology-eg.com/modules/ps_googleanalytics/views/js/GoogleAnalyticActionLib.js" ></script>
+    <script type="text/javascript" src="https://smarttechnology-eg.com/modules/arcontactus/views/js/jquery.contactus.min.js" ></script>
+    <script type="text/javascript" src="https://smarttechnology-eg.com/modules/arcontactus/views/js/scripts.js" ></script>
+    <script type="text/javascript" src="https://smarttechnology-eg.com/modules/productcomments/views/js/jquery.rating.plugin.js" ></script>
+    <script type="text/javascript" src="https://smarttechnology-eg.com/modules/productcomments/views/js/productListingComments.js" ></script>
+    <script type="text/javascript" src="https://smarttechnology-eg.com/modules/productcomments/views/js/post-comment.js" ></script>
+    <script type="text/javascript" src="https://smarttechnology-eg.com/modules/productcomments/views/js/list-comments.js" ></script>
+    <script type="text/javascript" src="https://smarttechnology-eg.com/modules/productcomments/views/js/jquery.simplePagination.js" ></script>
+    <script type="text/javascript" src="https://smarttechnology-eg.com/modules/leopopupsale//views/js/cookie.js" ></script>
+    <script type="text/javascript" src="https://smarttechnology-eg.com/modules/leopopupsale//views/js/front.js" ></script>
+    <script type="text/javascript" src="https://smarttechnology-eg.com/modules/accept//views/js/front_accept.js" ></script>
+    <script type="text/javascript" src="https://smarttechnology-eg.com/js/jquery/ui/jquery-ui.min.js" ></script>
+    <script type="text/javascript" src="https://smarttechnology-eg.com/js/jquery/plugins/fancybox/jquery.fancybox.js" ></script>
+    <script type="text/javascript" src="https://smarttechnology-eg.com/modules/ps_searchbar/ps_searchbar.js" ></script>
+    <script type="text/javascript" src="https://smarttechnology-eg.com/modules/leobootstrapmenu/views/js/leobootstrapmenu.js" ></script>
+    <script type="text/javascript" src="https://smarttechnology-eg.com/modules/blockgrouptop/views/js/blockgrouptop.js" ></script>
+    
+    <script type="text/javascript" src="https://smarttechnology-eg.com/themes/leo_shopmal/assets/js/custom.js" ></script>
+
+
+
+    <script type="text/javascript" src="https://smarttechnology-eg.com/modules/appagebuilder/views/js/imagesloaded.pkgd.min.js" ></script>
+    <script type="text/javascript" src="https://smarttechnology-eg.com/modules/appagebuilder/views/js/jquery.elevateZoom-3.0.8.min.js" ></script>
+
         
 
 
-<script type="text/javascript">
-	var choosefile_text = "Choose file";
-	var turnoff_popup_text = "Do not show this popup again";
-	
-	var size_item_quickview = 113;
-	var style_scroll_quickview = 'vertical';
-	
-	var size_item_page = 113;
-	var style_scroll_page = 'horizontal';
-	
-	var size_item_quickview_attr = 113;	
-	var style_scroll_quickview_attr = 'vertical';
-	
-	var size_item_popup = 113;
-	var style_scroll_popup = 'vertical';
-</script>    
 
     
 <x-Footer />
